@@ -3,7 +3,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="250"  style="margin-left: 50px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Android , Node Js**
@@ -32,6 +33,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=lakshyagupta2831&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyagupta2831&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyagupta2831" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=lakshyagupta2831&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="Profile Views" />
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
